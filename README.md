@@ -2,7 +2,7 @@ TestLayoutPanels
 ====================================
 
 TestLayoutPanels is an executable to check the behaviour of layout panels.
-The executable was written and tested in .Net 4.6.2.
+The executable was written and tested in .Net 4.7.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/4w41g31mgxtju8ej?svg=true)](https://ci.appveyor.com/project/SeppPenner/testlayoutpanels)
 
