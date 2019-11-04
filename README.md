@@ -8,7 +8,7 @@ The executable was written and tested in .Net 4.8.
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/TestLayoutPanels.svg)](https://github.com/SeppPenner/TestLayoutPanels/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/TestLayoutPanels.svg)](https://github.com/SeppPenner/TestLayoutPanels/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/TestLayoutPanels.svg)](https://github.com/SeppPenner/TestLayoutPanels/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/TestLayoutPanels/master/License.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/TestLayoutPanels/master/License.txt)
 [![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/TestLayoutPanels/badge.svg)](https://snyk.io/test/github/SeppPenner/TestLayoutPanels)
 
 
